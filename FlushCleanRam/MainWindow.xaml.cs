@@ -32,7 +32,7 @@ namespace FlushCleanRam
             TextBlock blk_Text = new TextBlock();
             blk_Text.Text = "Welcome to XAML Tutorial";
             blk_Text.Height = 20;
-            blk_Text.Width = 200;
+            blk_Text.Width = 220;
             blk_Text.Margin = new Thickness(5);
             pnl_Stack.Children.Add(blk_Text);
 
@@ -40,7 +40,7 @@ namespace FlushCleanRam
             Button btn = new Button();
             btn.Content = "OK!";
             btn.Height = 20;
-            btn.Width = 50;
+            btn.Width = 60;
             btn.Margin = new Thickness(20);
             pnl_Stack.Children.Add(btn);
         }

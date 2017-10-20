@@ -1,11 +1,10 @@
 H:\GitHub\FlushCleanRam\FlushCleanRam\bin\Debug\FlushCleanRam.exe.config
 H:\GitHub\FlushCleanRam\FlushCleanRam\bin\Debug\FlushCleanRam.exe
 H:\GitHub\FlushCleanRam\FlushCleanRam\bin\Debug\FlushCleanRam.pdb
-H:\GitHub\FlushCleanRam\FlushCleanRam\obj\Debug\FlushCleanRam.csprojResolveAssemblyReference.cache
+H:\GitHub\FlushCleanRam\FlushCleanRam\obj\Debug\MainWindow.baml
 H:\GitHub\FlushCleanRam\FlushCleanRam\obj\Debug\MainWindow.g.cs
 H:\GitHub\FlushCleanRam\FlushCleanRam\obj\Debug\App.g.cs
 H:\GitHub\FlushCleanRam\FlushCleanRam\obj\Debug\FlushCleanRam_MarkupCompile.cache
-H:\GitHub\FlushCleanRam\FlushCleanRam\obj\Debug\MainWindow.baml
 H:\GitHub\FlushCleanRam\FlushCleanRam\obj\Debug\FlushCleanRam.g.resources
 H:\GitHub\FlushCleanRam\FlushCleanRam\obj\Debug\FlushCleanRam.Properties.Resources.resources
 H:\GitHub\FlushCleanRam\FlushCleanRam\obj\Debug\FlushCleanRam.csproj.GenerateResource.Cache
